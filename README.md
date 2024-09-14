@@ -9,3 +9,7 @@ First impression of the new framework:
 
 
 Thanks also to (https://github.com/fanzeyi/pokemon.json)[https://github.com/fanzeyi/pokemon.json] for the jsons and images of pokemon
+
+To run:
+- compose install
+- - php artisan serve
